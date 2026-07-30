@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anush1326/Anush1326/main/banner (1).svg" alt="Anush G Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Anush1326/Anush1326/main/banner_bento.svg" alt="Anush G Banner" width="100%"/>
 </p>
 
 <img width="100%" src="https://streak-stats.demolab.com?user=Anush1326&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
